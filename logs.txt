@@ -1,0 +1,34 @@
+ta salvando certinho 
+ta salvando certinho date 
+ta salvando certinho 26/12/2020 
+ta salvando certinho 11:06:58,27 
+ta salvando certinho 11:08:15,79 
+ta salvando certinho 11:12:25,02 
+ta salvando certinho 20202/02_111257 
+ta salvando certinho 20202/02_111257 
+ta salvando certinho 20202/02_111412 
+teste data e tempo 20202/02_111412 
+teste data e tempo 20202/02_111412 
+teste data e tempo  
+teste data e tempo  
+teste data e tempo  
+teste data e tempo  
+teste data e tempo  
+teste data e tempo dia,hora 
+teste data e tempo , 
+teste data e tempo 26/12/2020,11:25:15,90 
+teste data e tempo 26/12/2020, 
+teste data e tempo 26/12/2020,11_27_02 
+teste data e tempo 26/12/2020,11_27_08 
+teste data e tempo 26/12/2020,11_27 
+teste data e tempo 26/12/2020,11:27 
+26/12/2020,11:28 
+data em que foi rodado o script: 26/12/2020 e hora que foi rodado: 11:29 
+data em que foi rodado o script: 26/12/2020 e hora que foi rodado: 11:31 
+data em que foi rodado o script: 26/12/2020 e hora que foi rodado: 11:42 
+data em que foi rodado o script: 26/12/2020 e hora que foi rodado: 11:44 
+data em que foi rodado o script: 26/12/2020 e hora que foi rodado: 11:45 
+data em que foi rodado o script: 26/12/2020 e hora que foi rodado: 11:50 
+Script executado 13:18:30,12 
+Script executado 13:30:18,85 
+Script executado 27/12/2020 , 11:45:36,26 
