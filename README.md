@@ -1,15 +1,17 @@
-# RSEDDHS
-É um simples código que roda somente no horário que foi colocado no código.
+#RSEDDHS
 
-Foi programado em .bat (ou como alguns gostão de falar batch), para rodar somente em determinado horario (Ex: entre 08:00 e 14:00 ele roda, varias vezes se necessario).
-Pode ser disparado fora do horario escrito no código? Sim, mas ele não roda o código, sendo assim não aplica o que foi solicitado.
-Ele gera um arquivo.txt mostrando a data e hora que foi executado.
+It is a simple code that runs only at the time that was placed in the code.
 
-O código em si é bem simples pois o mesmo serve para suporte, caso queira automatizar use task scheduler, é possivel automatizar usando só bat sem task scheduler? Sim, basta pesquisar que aparece alguns videos de gente mostrando como fazer para ele rodar automaticamente em determinado horario, mas eu não fiz isso (haha).
 
-# Notas 
+It was programmed in .bat (or as some like to speak batch), to run only at a certain time (Ex: between 08:00 and 14:00 it runs, several times if necessary).
+Can it be fired outside the time written in the code? Yes, but it does not run the code, so it does not apply what was requested.
+It generates a.txt file showing the date and time it was executed.
 
-Caso você execute o .bat e ele não rode, verifique se está dentro do horario estimado no código.
-O arquivo logs.txt contem os testes que efetuei enquanto escrevia o código.
-O código em si não mostra nem uma mensagem na tela dizendo que foi executado, ele só executa e joga a data e hora no logs.txt, caso queira confirmar se rodou basta abrir o mesmo.
-O arquivo logs.txt é criado no mesmo diretório em que se encontra o .bat
+The code itself is very simple because it serves as support, if you want to automate using the task scheduler, is it possible to automate using only bat without task scheduler? Yes, just search that there are some videos of people showing how to make it run automatically at a certain time, but I didn't do that.
+
+#Notes
+
+If you run .bat and it doesn't run, it is within the estimated time in the code.
+The logs.txt file contains the tests I performed while writing the code.
+The code itself doesn't even show a message on the screen saying it was obtained, it just executes and plays the date and time in logs.txt, if you want to confirm that it ran, just open it.
+The logs.txt file is created in the same directory as in the .bat
