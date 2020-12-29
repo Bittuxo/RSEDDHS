@@ -1,17 +1,11 @@
 #RSEDDHS
 
-It is a simple code that runs only at the time that was placed in the code.
+É um simples código que é executado somente entre o horário que foi estabelecido no código.
 
+É programado em .bat (ou como muitos optam por falar batch), para ser executado entre certos horários (Ex: Entre 08:00 e 14:00 ele executa, várias vezes se necessário), criando assim um arquivo .txt nomeado de logs (logs.txt), onde ele armazena data e o horário em que o script foi executado (Ex: Script executado 27/12/2020 , 11:45:36,26).
 
-It was programmed in .bat (or as some like to speak batch), to run only at a certain time (Ex: between 08:00 and 14:00 it runs, several times if necessary).
-Can it be fired outside the time written in the code? Yes, but it does not run the code, so it does not apply what was requested.
-It generates a.txt file showing the date and time it was executed.
+#Notas
 
-The code itself is very simple because it serves as support, if you want to automate using the task scheduler, is it possible to automate using only bat without task scheduler? Yes, just search that there are some videos of people showing how to make it run automatically at a certain time, but I didn't do that.
+O RSEDDHS é um script simples pois seu propósito é servir como suporte, caso queira automatizar, sugiro que utilizem o próprio software que vem com o Windows (task scheduler).
 
-#Notes
-
-If you run .bat and it doesn't run, it is within the estimated time in the code.
-The logs.txt file contains the tests I performed while writing the code.
-The code itself doesn't even show a message on the screen saying it was obtained, it just executes and plays the date and time in logs.txt, if you want to confirm that it ran, just open it.
-The logs.txt file is created in the same directory as in the .bat
+O script não escreve na tela dizendo que foi executado, sendo assim necessário abrir o arquivo de logs para saber se obteve sucesso na execução.
